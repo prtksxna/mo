@@ -4,6 +4,7 @@
 import sys
 
 momo = {
+	"fishjump": "¸.·´¯`·.´¯`·.¸¸.·´¯`·.¸><(((º>",
 	"headphones": "d(*_*)b",
 	"bigheadphones": "O(*+*)O",
 	"cthulhu": "^(;,;)^",
